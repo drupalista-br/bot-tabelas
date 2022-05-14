@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <sect1>
+    <title>4.3.15 - Tabela Operações sem Incidência da Contribuição Social (CST 08): Versão 1.01</title>
+    <informaltable frame="all">
+      <tgroup cols="5"><tbody><row><entry><para>Código</para></entry><entry><para>Descrição do Produto</para></entry><entry><para>NCM</para></entry><entry><para>Início de Escrituração</para><para>Mês/Ano</para></entry><entry><para>Término de Escrituração</para><para>Mês/Ano</para></entry></row><row><entry><para>100</para></entry><entry><para>QUEROSENE DE AVIAÇÃO</para></entry><entry><para/></entry><entry><para/></entry><entry><para/></entry></row><row><entry><para>101</para></entry><entry><para>Venda de querosene de aviação por pessoa jurídica não enquadrada na condição de importadora ou produtora</para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row><row><entry><para>102</para></entry><entry><para>Venda de querosene de aviação por produtora ou importadora a distribuidora, quando o produto for destinado ao consumo por aeronave em tráfego internacional</para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row><row><entry><para>200</para></entry><entry><para>BIODIESEL</para></entry><entry><para/></entry><entry><para/></entry><entry><para/></entry></row><row><entry><para>201</para></entry><entry><para>Vendas de biodiesel por pessoas não enquadradas como produtor ou importador</para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row><row><entry><para>300</para></entry><entry><para>ITAIPU BINACIONAL</para></entry><entry><para/></entry><entry><para/></entry><entry><para/></entry></row><row><entry><para>301</para></entry><entry><para>Vendas de materiais e equipamentos, bem assim da prestação de serviços decorrentes dessas operações, efetuadas diretamente a Itaipu Binacional </para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row><row><entry><para>400</para></entry><entry><para>EXPORTAÇÃO </para></entry><entry><para/></entry><entry><para/></entry><entry><para/></entry></row><row><entry><para>401</para></entry><entry><para>Exportação de mercadorias para o exterior</para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row><row><entry><para>402</para></entry><entry><para>Serviços prestados a pessoas físicas ou jurídicas residentes ou domiciliadas no exterior, cujo pagamento represente ingresso de divisas</para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row><row><entry><para>403</para></entry><entry><para>Vendas, com o fim específico de exportação, a empresa comercial exportadora constituída nos termos do Decreto-Lei nº 1.248, de 29 de novembro de 1972, ou simplesmente registrada na Secretaria de Comércio Exterior (Secex) do Ministério do Desenvolvimento, Indústria e Comércio Exterior</para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row><row><entry><para>900</para></entry><entry><para>DEMAIS RECEITAS SEM INCIDÊNCIA</para></entry><entry><para/></entry><entry><para/></entry><entry><para/></entry></row><row><entry><para>901</para></entry><entry><para>Regime Cumulativo - Demais receitas não classificadas como faturamento, não enquadradas como receita bruta nos termos do art. 3º da Lei nº 9.718, de 1998</para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row><row><entry><para>999</para></entry><entry><para>Outras receitas sem incidência</para></entry><entry><para>-</para></entry><entry><para>01/2011</para></entry><entry><para/></entry></row></tbody></tgroup>
+    </informaltable>
+    <para/>
+    <para>OBS: Legislação de Referência:</para>
+    <para>1. Grupo 100 – QUEROSENE DE AVIAÇÃO</para>
+    <para>Código 101: art. 2º da Lei nº 10.560, de 2002</para>
+    <para>Código 102: art. 3º da Lei nº 10.560, de 2002</para>
+    <para>.</para>
+    <para>2. Grupo 200 – BIODIESEL: </para>
+    <para>Código 201: Art. 3º da Lei nº 11.116, de 2005</para>
+    <para/>
+    <para>3. Grupo 300 – ITAIPU BINACIONAL: </para>
+    <para>Código 301: art. 43 do Decreto nº 4.524, de 2002</para>
+    <para/>
+    <para>4. Grupo 400 – EXPORTAÇÃO: </para>
+    <para>Códigos 401 a 403: art. 6º da Lei nº 10.833, de 2003 e art. 5º da Lei 10.637, de 2002</para>
+    <para/>
+    <para>5. Grupo 900 - DEMAIS RECEITAS SEM INCIDÊNCIA</para>
+  </sect1>
+</article>
