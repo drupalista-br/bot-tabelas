@@ -12,20 +12,15 @@ libreoffice --headless --convert-to xml:"DocBook File" *.doc --outdir ../xmls
 
 ### Enquadramentos
 - Produtos
-  - Monofásica
+  - Monofásica:
     - 4.3.10
     - 4.3.11
-  - ST
-    - 4.3.12
-  - Alíquota Zero
-    - 4.3.13
+  - ST: 4.3.12
+  - Alíquota Zero: 4.3.13
 - Operações
-  - Isentas
-    - 4.3.14
-  - Sem Incidência
-    - 4.3.15
-  - Suspensão
-    - 4.3.16
+  - Isentas: 4.3.14
+  - Sem Incidência: 4.3.15
+  - Suspensão: 4.3.16
 
 ### Alíquotas e Regras de Apuração
 > Todo
