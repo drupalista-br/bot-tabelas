@@ -1,3 +1,6 @@
 Serviço	Cmd
 Novo Cliente	cliente:novo
 Atualizar Cliente	cliente:atualizar
+a	1
+b	2
+c	3
