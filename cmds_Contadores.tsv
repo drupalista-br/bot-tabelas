@@ -1,0 +1,4 @@
+Serviço	Cmd
+Novo Cliente PJ	cliente:novo:pj
+Novo Cliente PF Produtor Rural	cliente:novo:pr
+Atualizar Cliente	cliente:atualizar
